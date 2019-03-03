@@ -1,0 +1,19 @@
+{
+    "name": "tomothumb/php-delegate-example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomoyuki Tsujimoto",
+            "email": "tomo.tsujimoto@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "require": {}
+}
